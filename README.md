@@ -36,11 +36,11 @@ The above mentioned datasets were used in the analysis done in Jupyter notebook.
 
 * Firstly, using the datsets, imdb.title.ratings and imdb.title.basics, the attributes of runtime of movies (in minutes) and number of votes by audience were analysed using a scatter plot. The resulting scattter plot was similiar to a normal distrubution. In order to further understand the relationship between movie runtime and movie ratings, a categorised data involving both the parameters were created. This means the movie runtime was distributed into bins of 10 minute intervals and the mean of the votes received for movies with runtime in that particular bin was found out. 
 
-After this the 25th percentile, 50th percentile and the 75th percentile of the audience votes was found out by considering the cumilative sum of the audience ratings. These percentiles were obtained from the following formula:
+  After this the 25th percentile, 50th percentile and the 75th percentile of the audience votes was found out by considering the cumilative sum of the audience ratings. These percentiles were obtained from the following formula:
 
-Xth percentile of the data= X/100 × Sum of the average ratings
+  Xth percentile of the data= X/100 × Sum of the average ratings
 
-After obtaining the 25th percentile, 50th percentile and 75th percentile of the audience votes, it was compared with the cumilative audience votes and the corresponding movie runtime was found out.
+  After obtaining the 25th percentile, 50th percentile and 75th percentile of the audience votes, it was compared with the cumilative audience votes and the corresponding movie runtime was found out.
 
 * Secondly, from the datsets, bom.movie_gross and imdb.title.ratings, the attributes of movie studio and movie ratings were obtained respectively. In order to merge the two datasets, a thrid dataset, imdb.title.basics had to be used. This is because bom.movie_gross had the title of the movie in the dataset however imdb.title.ratings showed the ratings and number of votes for each IMDB movie ID. In order to find the corresponding movie title from the movie ID, this third dataset was used which had both IMDB movie ID and movie title. 
 
@@ -52,12 +52,14 @@ Further to this, the top 10 actors were found based on the highest average world
 
 ### Results
 
-* **Movie Run Time recommendation based on the number of votes received for movies:** 
+* **Movie Run Time recommendation based on the number of votes received for movies:**
+  
 ![Img1](https://github.com/Shimnazzz/dsc-phase-1-project_data_8/assets/147800579/7e5f98e6-4335-48d0-bf27-bf0373867d04)
 
 The runtime corresponding to the 25th percentile 50th percentile and 75th percentile of the votes were found to be 130 minutes, 160 minutes and 190 minutes.
 
-* **Top 10 Studios based on the average rating of their movies** 
+* **Top 10 Studios based on the average rating of their movies**
+
 ![Img2](https://github.com/Shimnazzz/dsc-phase-1-project_data_8/assets/147800579/eb70f9e1-f28f-475f-bd7c-97f87b1846a3)
 
 * **Top 10 actors based on the highest worldwide and domestic gross** 
