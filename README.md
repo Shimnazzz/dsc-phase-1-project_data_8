@@ -44,11 +44,11 @@ The above mentioned datasets were used in the analysis done in Jupyter notebook.
 
 * Secondly, from the datsets, bom.movie_gross and imdb.title.ratings, the attributes of movie studio and movie ratings were obtained respectively. In order to merge the two datasets, a thrid dataset, imdb.title.basics had to be used. This is because bom.movie_gross had the title of the movie in the dataset however imdb.title.ratings showed the ratings and number of votes for each IMDB movie ID. In order to find the corresponding movie title from the movie ID, this third dataset was used which had both IMDB movie ID and movie title. 
 
-Once the datasets were merged the top 10 studios based on the average rating of all their movies were found.
+  Once the datasets were merged the top 10 studios based on the average rating of all their movies were found.
 
 * Thirdly, from the datasets, bom.movie_gross and tn.movie_budgets, the worldwide gross, domestic gross and foreign gross were obtained. These were merged based on the movie titles. From imdb.name.basics and imdb.title.principals, the actors who played in the movies were obtained. After making necessary adjustments, the above mentioned datasets were merged.
 
-Further to this, the top 10 actors were found based on the highest average worldwide gross for the movies and also in order to recommend actors that were appealing to the domestic audience, the top 10 actors based on the highest domestic gross for their movies were also learned.
+  Further to this, the top 10 actors were found based on the highest average worldwide gross for the movies and also in order to recommend actors that were appealing to the domestic audience, the top 10 actors based on the highest domestic gross for their movies were also learned.
 
 ### Results
 
@@ -56,7 +56,7 @@ Further to this, the top 10 actors were found based on the highest average world
   
 ![Img1](https://github.com/Shimnazzz/dsc-phase-1-project_data_8/assets/147800579/7e5f98e6-4335-48d0-bf27-bf0373867d04)
 
-The runtime corresponding to the 25th percentile 50th percentile and 75th percentile of the votes were found to be 130 minutes, 160 minutes and 190 minutes.
+  The runtime corresponding to the 25th percentile 50th percentile and 75th percentile of the votes were found to be 130 minutes, 160 minutes and 190 minutes.
 
 * **Top 10 Studios based on the average rating of their movies**
 
