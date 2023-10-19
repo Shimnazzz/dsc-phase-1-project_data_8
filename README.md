@@ -57,19 +57,17 @@ Further to this, the top 10 actors were found based on the highest average world
 * **Top 10 Studios based on the average rating of their movies** 
 
 * **Top 10 actors based on the highest worldwide and domestic gross** 
+.
 
-## Getting Started
 
-Please start by reviewing this assignment, the rubric at the bottom of it, and the "Project Submission & Review" page. If you have any questions, please ask your instructor ASAP.
+## Conclusion and Recommendation
 
-Next, we recommend you check out [the Phase 1 Project Templates and Examples repo](https://github.com/learn-co-curriculum/dsc-project-template) and use the MVP template for your project.
+The following conclusions and recommendations can be derived from the results:
 
-Alternatively, you can fork [the Phase 1 Project Repository](https://github.com/learn-co-curriculum/dsc-phase-1-project), clone it locally, and work in the `student.ipynb` file. Make sure to also add and commit a PDF of your presentation to your repository with a file name of `presentation.pdf`.
+* The movies with higher number of votes had a run time between 130 minutes and 190 minutes. Microsoft would be recommended to create a movie within this timeframe in order to attain the satisfaction of the audience.
 
-## Project Submission and Review
+* The top ten studios that created movies with highest ratings were found out and these included studios like Trafalgar, NAV and GrtIndia. The client could look into their production style or associate with them for their first movie.
 
-Review the "Project Submission & Review" page in the "Milestones Instructions" topic to learn how to submit your project and how it will be reviewed. Your project must pass review for you to progress to the next Phase.
+* The top ten actors that acted in movies that bagged high revenue from across the world was found out and these included actors like Rafe Spall, Yiu-Wing Chan and Aarif Rahman.
 
-## Summary
-
-This project will give you a valuable opportunity to develop your data science skills using real-world data. The end-of-phase projects are a critical part of the program because they give you a chance to bring together all the skills you've learned, apply them to realistic projects for a business stakeholder, practice communication skills, and get feedback to help you improve. You've got this!
+* For good revenue collection in the domestic market, the top ten actors that could be associated with were found out and they included actors like Craig T Nelson, Huck Milner and Diego Luna. Microsoft may considering associating with these actors based on the market segment they are interested in.
