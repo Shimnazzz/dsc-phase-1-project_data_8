@@ -6,7 +6,7 @@ This is the repository of Shimnaz! Welcome to the Project Repository of Shimnaz 
 
 ### Project Overview
 
-This project involves using various avaiable movie related databases to perform data analysis and derive meaningful insights and recommendations for Microsoft for their new venture to create a new movie studio
+This project involves using various avaiable movie related databases to perform data analysis and derive meaningful insights and recommendations for Microsoft for their new venture to create a new movie studio.
 
 ### Business Problem
 
@@ -34,7 +34,7 @@ This project will be looking into the following datasets from the above listed o
 
 The above mentioned datasets were used in the analysis done in Jupyter notebook. The datsets were used to understand any correlation between movie related parameters and also to find the best available solutions to create the movie with for Microsoft.
 
-Firstly, using the 
+Firstly, using the datsets, imdb.title.ratings and imdb.title.basics, the attributes of runtime 9in minutes) and average rating by audience was analysed and
 
 ### Key Points
 
