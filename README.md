@@ -4,14 +4,13 @@ This is the repository of Shimnaz! Welcome to the Project Repository of Shimnaz 
 ![Title Picture](https://github.com/Shimnazzz/dsc-phase-1-project_data_8/assets/147800579/5cc5a12e-0043-4773-b67c-65ed34cbbbbe)
 
 
-## Project Overview
+### Project Overview
 
 This project involves using various avaiable movie related databases to perform data analysis and derive meaningful insights and recommendations for Microsoft for their new venture to create a new movie studio
 
 ### Business Problem
 
-Microsoft as a new
-Microsoft sees all the big companies creating original video content and they want to get in on the fun. They have decided to create a new movie studio, but they don’t know anything about creating movies. You are charged with exploring what types of films are currently doing the best at the box office. You must then translate those findings into actionable insights that the head of Microsoft's new movie studio can use to help decide what type of films to create.
+Microsoft as a new entrant in the movie production space, requires expert recommendation in this area. This project looks into catering to this problem and doing analysis of the different movie related attributes and develop findings related to these. These findings will be converted into actionable insights that the head of Microsoft's new movie studio can use to help decide what type of films to create.
 
 ### The Data
 
@@ -23,21 +22,19 @@ In the folder `zippedData` are movie datasets from:
 * [TheMovieDB](https://www.themoviedb.org/)
 * [The Numbers](https://www.the-numbers.com/)
 
-It is up to you to decide what data from this to use and how to use it. If you want to make this more challenging, you can scrape websites or make API calls to get additional data. If you are feeling overwhelmed or behind (e.g. struggled with the Phase 1 Code Challenge), we recommend you use only the following data files:
+This project will be looking into the following datasets from the above listed ones:
 
 * imdb.title.basics
 * imdb.title.ratings
+* imdb.title.principals
+* mdb.name.basics
 * bom.movie_gross
 
-## Deliverables
+### Methodology
 
-There are three deliverables for this project:
+The above mentioned datasets were used in the analysis done in Jupyter notebook. The datsets were used to understand any correlation between movie related parameters and also to find the best available solutions to create the movie with for Microsoft.
 
-* A **GitHub repository**
-* A **Jupyter Notebook**
-* A **non-technical presentation**
-
-Review the "Project Submission & Review" page in the "Milestones Instructions" topic for instructions on creating and submitting your deliverables. Refer to the rubric associated with this assignment for specifications describing high-quality deliverables.
+Firstly, using the 
 
 ### Key Points
 
