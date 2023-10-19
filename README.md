@@ -46,9 +46,11 @@ After obtaining the 25th percentile, 50th percentile and 75th percentile of the 
 
 Once the datasets were merged the top 10 studios based on the average rating of all their movies were found.
 
-**Thirdly,** from the datasets, bom.movie_gross
+**Thirdly,** from the datasets, bom.movie_gross and tn.movie_budgets, the worldwide gross, domestic gross and foreign gross were obtained. These were merged based on the movie titles. From imdb.name.basics and imdb.title.principals, the actors who played in the movies were obtained. After making necessary adjustments, the above mentioned datasets were merged.
 
-### Key Points
+Further to this, the top 10 actors were found based on the highest average worldwide gross for the movies and also in order to recommend actors that were appealing to the domestic audience, the top 10 actors based on the highest domestic gross for their movies were also learned.
+
+### Results
 
 * **Your analysis should yield three concrete business recommendations.** The ultimate purpose of exploratory analysis is not just to learn about the data, but to help an organization perform better. Explicitly relate your findings to business needs by recommending actions that you think the business (Microsoft) should take.
 
