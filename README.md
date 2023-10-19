@@ -1,6 +1,9 @@
 # Phase 1 Project
 This is the repository of Shimnaz! Welcome to the Project Repository of Shimnaz Fathima! You will find a brief overview of the project, the findings and the recommendations derived after the completion of this project here. Please feel free to browse through the files to know more about the analysis done in this project.
 
+![Title Picture](https://github.com/Shimnazzz/dsc-phase-1-project_data_8/assets/147800579/d65a33ae-e7e1-4306-a0d4-4377b8201f61)
+
+
 ## Project Overview
 
 For this project, you will use exploratory data analysis to generate insights for a business stakeholder.
