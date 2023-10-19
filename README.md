@@ -66,7 +66,7 @@ The following conclusions and recommendations can be derived from the results:
 
 * The movies with higher number of votes had a run time between 130 minutes and 190 minutes. Microsoft would be recommended to create a movie within this timeframe in order to attain the satisfaction of the audience.
 
-* The top ten studios that created movies with highest ratings were found out and these included studios like Trafalgar, NAV and GrtIndia. The client could look into their production style or associate with them for their first movie.
+* The top ten studios that created movies with highest ratings were found out and these included studios like Trafalgar, NAV and GrtIndia. The client could look into the production style of these studios or associate with them for the first movie.
 
 * The top ten actors that acted in movies that bagged high revenue from across the world was found out and these included actors like Rafe Spall, Yiu-Wing Chan and Aarif Rahman.
 
