@@ -1,6 +1,5 @@
 # Phase 1 Project
-This is the repository of Shimnaz
-Now you will put your new skills to use with a large end-of-Phase project! This project should take 20 to 30 hours to complete.
+This is the repository of Shimnaz! Welcome to the Project Repository of Shimnaz Fathima! You will find a brief overview of the project, the findings and the recommendations derived after the completion of this project here. Please feel free to browse through the files to know more about the analysis done in this project.
 
 ## Project Overview
 
