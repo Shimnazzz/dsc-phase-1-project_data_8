@@ -62,9 +62,10 @@ The above mentioned datasets were used in the analysis done in Jupyter notebook.
 
 ![Img2](https://github.com/Shimnazzz/dsc-phase-1-project_data_8/assets/147800579/eb70f9e1-f28f-475f-bd7c-97f87b1846a3)
 
-* **Top 10 actors based on the highest worldwide and domestic gross** 
+* **Top 10 actors based on the highest worldwide and domestic gross**
+  Following is the plot showing the top 10 actors beased on the highest average worldwide gross of their movies:
 ![Img3](https://github.com/Shimnazzz/dsc-phase-1-project_data_8/assets/147800579/850b77ab-a190-45be-8f2b-2128a6f42d0f)
-
+  Following is the plot showing the top 10 actors beased on the highest average domestic gross of their movies:
 ![Img4](https://github.com/Shimnazzz/dsc-phase-1-project_data_8/assets/147800579/a70ff1a6-e5c0-4e6b-90f5-8ecc883df7ef)
 
 
