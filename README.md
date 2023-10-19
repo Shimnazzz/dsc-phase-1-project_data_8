@@ -53,11 +53,17 @@ Further to this, the top 10 actors were found based on the highest average world
 ### Results
 
 * **Movie Run Time recommendation based on the number of votes received for movies:** 
+![Img1](https://github.com/Shimnazzz/dsc-phase-1-project_data_8/assets/147800579/7e5f98e6-4335-48d0-bf27-bf0373867d04)
+
+The runtime corresponding to the 25th percentile 50th percentile and 75th percentile of the votes were found to be 130 minutes, 160 minutes and 190 minutes.
 
 * **Top 10 Studios based on the average rating of their movies** 
+![Img2](https://github.com/Shimnazzz/dsc-phase-1-project_data_8/assets/147800579/eb70f9e1-f28f-475f-bd7c-97f87b1846a3)
 
 * **Top 10 actors based on the highest worldwide and domestic gross** 
-.
+![Img3](https://github.com/Shimnazzz/dsc-phase-1-project_data_8/assets/147800579/850b77ab-a190-45be-8f2b-2128a6f42d0f)
+
+![Img4](https://github.com/Shimnazzz/dsc-phase-1-project_data_8/assets/147800579/a70ff1a6-e5c0-4e6b-90f5-8ecc883df7ef)
 
 
 ## Conclusion and Recommendation
