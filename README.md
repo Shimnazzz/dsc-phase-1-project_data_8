@@ -36,7 +36,13 @@ The above mentioned datasets were used in the analysis done in Jupyter notebook.
 
 Firstly, using the datsets, imdb.title.ratings and imdb.title.basics, the attributes of runtime of movies (in minutes) and average rating by audience was analysed using a scatter plot. The resulting scattter plot was similiar to a normal distrubution. In order to further understand the relationship between movie runtime and movie ratings, a categorised data involving both the parameters were created. This means the movie runtime was distributed into bins of 10 minute intervals and the mean of the ratings of movies with runtime in that particular bin was found out. 
 
-After this the 25th percentile, 50th percentile and the 75th percentile of the audience rating was found out by considering the cumilative sum of the audience ratings. 
+After this the 25th percentile, 50th percentile and the 75th percentile of the audience rating was found out by considering the cumilative sum of the audience ratings. These percentiles were obtained from the following formula:
+
+Xth percentile of the data= X/100 × Sum of the average ratings
+
+After obtaining the 25th percentile, 50th percentile and 75th percentile of the audience ratings, it was compared with the cumilative audience ratings and the corresponding movie runtime was found out.
+
+Secondly, 
 
 ### Key Points
 
