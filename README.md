@@ -79,6 +79,6 @@ The following conclusions and recommendations can be derived from the results:
 
 * The top ten studios that created movies with highest ratings were found out and these included studios like Trafalgar, NAV and GrtIndia. The client could look into the production style of these studios or associate with them for the first movie.
 
-* The top ten actors that acted in movies that bagged high revenue from across the world was found out and these included actors like Rafe Spall, Yiu-Wing Chan and Aarif Rahman.
+* The top ten actors that acted in movies that bagged high revenue from across the world was found out and these included actors like Rafe Spall, Jonathan Groff and Shawn Ashmore.
 
-* For good revenue collection in the domestic market, the top ten actors that could be associated with were found out and they included actors like Craig T Nelson, Huck Milner and Diego Luna. Microsoft may considering associating with these actors based on the market segment they are interested in.
+* For good revenue collection in the domestic market, the top ten actors that could be associated with were found out and they included actors like Huck Milner, Craig T Nelson and Alan Tudyk. Microsoft may considering associating with these actors based on the market segment they are interested in.
