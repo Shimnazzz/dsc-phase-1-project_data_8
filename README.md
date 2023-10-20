@@ -1,7 +1,7 @@
 # Phase 1 Project
 Welcome to the Project Repository of Shimnaz Fathima! You will find a brief overview of the project, the findings and the recommendations derived after the completion of this project here. Please feel free to browse through the files to know more about the analysis done in this project.
 
-![Title Picture](https://github.com/Shimnazzz/dsc-phase-1-project_data_8/assets/147800579/5cc5a12e-0043-4773-b67c-65ed34cbbbbe)
+![Title Picture](https://github.com/Shimnazzz/dsc-phase-1-project_data_8/blob/master/Images/Title%20Picture.PNG?raw=true)
 
 
 ### Project Overview
