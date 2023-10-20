@@ -54,7 +54,7 @@ The above mentioned datasets were used in the analysis done in Jupyter notebook.
 
 * **Movie Run Time recommendation based on the number of votes received for movies:**
   
-![Img1]([https://raw.githubusercontent.com/Shimnazzz/dsc-phase-1-project_data_8/master/Images/Runtime_vs_votes.png]
+![Img1]([https://github.com/Shimnazzz/dsc-phase-1-project_data_8/blob/master/Images/Runtime_vs_votes.png?raw=true]
 
   The runtime corresponding to the 25th percentile 50th percentile and 75th percentile of the votes were found to be 130 minutes, 160 minutes and 190 minutes.
 
@@ -65,10 +65,10 @@ The above mentioned datasets were used in the analysis done in Jupyter notebook.
 * **Top 10 actors based on the highest worldwide and domestic gross**
 
   Following is the plot showing the top 10 actors beased on the highest average worldwide gross of their movies:
-![Img3](https://github.com/Shimnazzz/dsc-phase-1-project_data_8/assets/147800579/850b77ab-a190-45be-8f2b-2128a6f42d0f)
+![Img3](https://github.com/Shimnazzz/dsc-phase-1-project_data_8/blob/master/Images/Top%2010%20actors%20based%20on%20worldwide%20gross.png?raw=true)
 
   Following is the plot showing the top 10 actors beased on the highest average domestic gross of their movies:
-![Img4](https://github.com/Shimnazzz/dsc-phase-1-project_data_8/assets/147800579/a70ff1a6-e5c0-4e6b-90f5-8ecc883df7ef)
+![Img4](https://github.com/Shimnazzz/dsc-phase-1-project_data_8/blob/master/Images/Top%2010%20actors%20based%20on%20domestic%20gross.png?raw=true)
 
 
 ## Conclusion and Recommendation
