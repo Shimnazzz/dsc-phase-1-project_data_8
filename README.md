@@ -54,13 +54,13 @@ The above mentioned datasets were used in the analysis done in Jupyter notebook.
 
 * **Movie Run Time recommendation based on the number of votes received for movies:**
   
-![Img1](https://github.com/Shimnazzz/dsc-phase-1-project_data_8/assets/147800579/7e5f98e6-4335-48d0-bf27-bf0373867d04)
+![Img1]([https://raw.githubusercontent.com/Shimnazzz/dsc-phase-1-project_data_8/master/Images/Runtime_vs_votes.png]
 
   The runtime corresponding to the 25th percentile 50th percentile and 75th percentile of the votes were found to be 130 minutes, 160 minutes and 190 minutes.
 
 * **Top 10 Studios based on the average rating of their movies**
 
-![Img2](https://github.com/Shimnazzz/dsc-phase-1-project_data_8/assets/147800579/eb70f9e1-f28f-475f-bd7c-97f87b1846a3)
+![Img2](https://github.com/Shimnazzz/dsc-phase-1-project_data_8/blob/master/Images/Top_10_studios_based_on_rating.png?raw=true)
 
 * **Top 10 actors based on the highest worldwide and domestic gross**
 
