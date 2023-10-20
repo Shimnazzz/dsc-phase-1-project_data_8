@@ -54,7 +54,7 @@ The above mentioned datasets were used in the analysis done in Jupyter notebook.
 
 * **Movie Run Time recommendation based on the number of votes received for movies:**
   
-![Img1]([https://github.com/Shimnazzz/dsc-phase-1-project_data_8/blob/master/Images/Runtime_vs_votes.png?raw=true]
+![Img1](https://github.com/Shimnazzz/dsc-phase-1-project_data_8/blob/master/Images/Runtime_vs_votes.png?raw=true)
 
   The runtime corresponding to the 25th percentile 50th percentile and 75th percentile of the votes were found to be 130 minutes, 160 minutes and 190 minutes.
 
